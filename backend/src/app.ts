@@ -1,5 +1,5 @@
 import server from './server';
-require
+require()
 
 
 
