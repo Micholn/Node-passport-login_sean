@@ -1,5 +1,7 @@
 import server from './server';
-require("dotenv").config
+require("dotenv").config();
+
+const port = 
 
 
 
