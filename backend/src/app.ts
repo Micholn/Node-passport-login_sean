@@ -1,2 +1,2 @@
 import server from "./server";
-require("dotenv")
+require("dotenv").
