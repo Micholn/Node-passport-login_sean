@@ -1,7 +1,7 @@
 import server from './server';
 require("dotenv").config();
 
-const port = parseInt(process.env.PORT)
+const port = parseInt(process.env.PORT || )
 
 
 
