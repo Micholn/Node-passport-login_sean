@@ -1,3 +1,16 @@
+import server from '.'
+
+
+
+
+
+
+
+
+
+
+
+
 const LocalStrategy = require("passport-local").Strategy//the local version that allows us to login
 const bcrypt = require("bcrypt"); //for hashing
 
