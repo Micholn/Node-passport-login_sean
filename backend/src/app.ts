@@ -4,7 +4,7 @@ require("dotenv").config();
 const port = parseInt(process.env.PORT || '8000')
 
 const starter = new server().start(port)
-  .then(port)
+  .then(port => )
 
 
 
