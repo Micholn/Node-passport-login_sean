@@ -1,4 +1,5 @@
-import server from '.'
+import server from './server';
+
 
 
 
