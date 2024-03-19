@@ -1,5 +1,5 @@
 
-import express, { , next}
+import express, { Application, NextF}
 
 
 
