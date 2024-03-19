@@ -9,7 +9,7 @@ const starter = new server().start(port)
     console.log(error)
   });
 
-export default starter
+export default starter;
 
 
 
