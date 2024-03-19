@@ -1,5 +1,5 @@
 import server from './server';
-require("d")
+require("dotenv").config
 
 
 
