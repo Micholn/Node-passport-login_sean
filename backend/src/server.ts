@@ -5,7 +5,7 @@ import helmet from 'helmet';
 import http from 'http';
 import { DBConnect } from './Dbconfig/db';
 import passportJWT from "passport-jwt";
-import passport from "passport"
+import passport from "passport";
 
 /*load up our environmental variables for development, so we're requiring that development
 dependency */
