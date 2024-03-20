@@ -8,7 +8,7 @@ import passportJWT from "passport-jwt";
 import passport from "passport";
 import authRouter from './Routers/authRouter';
 import productRouter from './Routers/productRouter';
-import prof
+import profileRouter
 
 
 /*load up our environmental variables for development, so we're requiring that development
