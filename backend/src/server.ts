@@ -6,7 +6,7 @@ import http from 'http';
 import { DBConnect } from './Dbconfig/db';
 import passportJWT from "passport-jwt";
 import passport from "passport";
-import authrouter 
+import authrouter from './Routers/authrouter'
 
 /*load up our environmental variables for development, so we're requiring that development
 dependency */
