@@ -24,6 +24,7 @@ let jwtStrategy = passportJWT.strategy
 
 let jwtoptions = {
   jwtFromRequest: extractalalljwt.strategy;
+  
 }
 
 
