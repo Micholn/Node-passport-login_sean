@@ -19,7 +19,7 @@ import middlewares from './'
 
 
 
-let extracjwt = passport
+let extracjwt = passport jwt
 
 
 
