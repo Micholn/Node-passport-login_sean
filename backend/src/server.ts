@@ -22,7 +22,9 @@ import middlewares from './'
 let extracjwt = passport jwt.extract .extract
 let jwtStrategy = passportJWT.strategy
 
-let jwtoptions = {}
+let jwtoptions = {
+  
+}
 
 
 
