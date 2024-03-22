@@ -14,7 +14,7 @@ import roleRouter from './Routers/roleRouter';
 import middlewares from './'
 
 import allApis from './swagger.json';
-import * from swaggerUi from "swagger-ui-ex"
+import * from swaggerUi from "swagger-ui-express"
 
 
 
