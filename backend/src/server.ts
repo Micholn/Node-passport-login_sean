@@ -15,7 +15,7 @@ import middlewares from './'
 
 import allApis from './swagger.json';
 import * from swaggerUi from "swagger-ui-express";
-import permissionRouter from './'
+import permissionRouter from './Routers'
 
 
 
