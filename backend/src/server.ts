@@ -19,6 +19,7 @@ import allApis from './swagger.json';
 
 
 
+
 let extracjwt = passport jwt.extract .extract
 let jwtStrategy = passportJWT.strategy
 
