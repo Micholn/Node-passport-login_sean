@@ -13,7 +13,7 @@ import categoryRouter from './Routers/categoryRouter';
 import roleRouter from './Routers/roleRouter';
 import middlewares from './'
 
-import allApis from './swagger'
+import allApis from './swagger.json'
 
 
 
