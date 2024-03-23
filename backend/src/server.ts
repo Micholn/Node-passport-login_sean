@@ -36,7 +36,7 @@ let strategy = new jwtStrategy(jwtOptions, (jwtPayload, next) => {
 
 
 
-Passport.use( express: comfig) 
+Passport.use( express: comfig: s) 
 
 /*load up our environmental variables for development, so we're requiring that development
 dependency */
