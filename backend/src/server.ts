@@ -27,7 +27,7 @@ let jwtStrategy = passportJWT.strategy
 let jwtOptions = {
   jwtFromRequest: extractalalljwt.strategy;
   secretOrKey: ""
-}
+};
 
 
 
