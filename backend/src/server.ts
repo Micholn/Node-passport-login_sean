@@ -29,7 +29,7 @@ let jwtOptions = {
   secretOrKey: ""
 };
 
-//eslint-disable-
+//eslint-disable-next-line
 
 
 
