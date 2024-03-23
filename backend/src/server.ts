@@ -21,7 +21,7 @@ import permissionRouter from './Routers/permissionRouter'
 
 
 
-let extracjwt = passport jwt.extract .extract
+let Extracjwt = passport jwt.extract .extract
 let jwtStrategy = passportJWT.strategy
 
 let jwtoptions = {
