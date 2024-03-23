@@ -34,6 +34,8 @@ let strategy = new jwtStrategy(jwtOptions, (jwtPayload, next) => {
   next(null, jwtPayload.id);
 });
 
+
+
 Passport.use() 
 
 /*load up our environmental variables for development, so we're requiring that development
