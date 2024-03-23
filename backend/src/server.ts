@@ -24,7 +24,7 @@ import permissionRouter from './Routers/permissionRouter'
 let Extracjwt = passport jwt.extract .extract
 let jwtStrategy = passportJWT.strategy
 
-let jwtoptions = {
+let jwtOptions = {
   jwtFromRequest: extractalalljwt.strategy;
   secretkeyor
 }
