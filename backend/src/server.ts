@@ -27,13 +27,12 @@ let jwtStrategy = passportJWT.strategy
 
 let jwtOptions = {
   jwtFromRequest: extractalalljwt.strategy;
-  secretOrKe
+  secretOrK
 
 //eslint-disable-next-line new-cap
 let strategy = new jwtStrategy(jwtOptions, (jwtPayload, next) => {
   next(null, jwtPayload.id);
 });
-
 
 
 
