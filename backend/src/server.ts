@@ -36,7 +36,7 @@ let strategy = new jwtStrategy(jwtOptions, (jwtPayload, next) => {
 });
 
 
-p
+publi
 
 Passport.use( express: comfig: ss: any: : ) 
 
