@@ -36,7 +36,7 @@ let strategy = new jwtStrategy(jwtOptions, (jwtPayload, next) => {
 });
 
 
-public start
+public star
 
 Passport.use( express: comfig: ss: any: : ) 
 
