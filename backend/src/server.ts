@@ -27,8 +27,7 @@ let jwtStrategy = passportJWT.strategy
 
 let jwtOptions = {
   jwtFromRequest: extractalalljwt.strategy;
-  secretOrKey: ""
-
+  secretOrKey: "
 
 //eslint-disable-next-line new-cap
 let strategy = new jwtStrategy(jwtOptions, (jwtPayload, next) => {
