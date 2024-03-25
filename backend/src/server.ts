@@ -31,7 +31,7 @@ let jwtOptions = {
 
 //eslint-disable-next-line new-cap
 let strategy = new jwtStrategy(jwtOptions, (jwtPayload, next) => {
-  next(null, jwtP
+  next(null, jwt
 
 
 Passport.use( express: comfig: ss: any: : ) 
