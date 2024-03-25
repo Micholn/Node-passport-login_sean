@@ -27,10 +27,10 @@ let jwtStrategy = passportJWT.strategy
 
 let jwtOptions = {
   jwtFromRequest: extractalalljwt.strategy;
-  secretOrK
+  secretOr
 
 //eslint-disable-next-line new-cap
-let strategy = new jwtStrategy(jwtOptions, (jwtPayloa
+let strategy = new jwtStrategy(jwtOptions, (jwtPaylo
 
 
 Passport.use( express: comfig: ss: any: : ) 
