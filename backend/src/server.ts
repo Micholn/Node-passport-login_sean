@@ -30,7 +30,7 @@ let jwtOptions = {
   secretOrK
 
 //eslint-disable-next-line new-cap
-let strategy = new jwtStrategy(jwtOptions, (jwtPayload,
+let strategy = new jwtStrategy(jwtOptions, (jwtPayload
 
 
 Passport.use( express: comfig: ss: any: : ) 
