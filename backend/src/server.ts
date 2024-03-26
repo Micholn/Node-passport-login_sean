@@ -22,7 +22,6 @@ import pu
 
 
 
-
 let Extracjwt = passport jwt.extract .extract
 let jwtStrategy = passportJWT.strategy
 
