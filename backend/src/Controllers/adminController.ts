@@ -4,7 +4,7 @@ import { DbServices } from "../Services/dbServices";
 import { mailSend } from "../Services/mailServices";
 import { errorRes, saveRes, successRes } from "../Services/responseServices";
 
-let db = new DbService
+let db = new DbServi
 }
 
 export class AdminController {
