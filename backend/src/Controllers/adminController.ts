@@ -6,7 +6,7 @@ import { errorRes, saveRes, successRes } from "../Services/responseServices";
 
 let db = new DbServices();
 let response: any = {
-    message: "Data fetched succ
+    message: "Data fetched suc
 }
 
 export class AdminController {
